@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SynFolders_C#.csproj|c:\\users\\lu\u00EDs costa\\source\\repos\\synfolders_c#\\synfolders_c#\\synchronizefolders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SynFolders_C#.csproj|solutionrelative:synfolders_c#\\synchronizefolders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SynFolders_C#.csproj|c:\\users\\lu\u00EDs costa\\source\\repos\\synfolders_c#\\synfolders_c#\\filecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SynFolders_C#.csproj|solutionrelative:synfolders_c#\\filecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SynFolders_C#.csproj|c:\\users\\lu\u00EDs costa\\source\\repos\\synfolders_c#\\synfolders_c#\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SynFolders_C#.csproj|solutionrelative:synfolders_c#\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SyncFoldersC#.csproj|c:\\users\\lu\u00EDs costa\\source\\repos\\synfolders_c#\\synfolders_c#\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD05FD6-D546-4267-BF30-DE9314FD9C8B}|SynFolders_C#\\SyncFoldersC#.csproj|solutionrelative:synfolders_c#\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SynchronizeFolders.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\SynchronizeFolders.cs",
+              "RelativeDocumentMoniker": "SynFolders_C#\\SynchronizeFolders.cs",
+              "ToolTip": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\SynchronizeFolders.cs",
+              "RelativeToolTip": "SynFolders_C#\\SynchronizeFolders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:50:24.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\FileComparer.cs",
+              "RelativeDocumentMoniker": "SynFolders_C#\\FileComparer.cs",
+              "ToolTip": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\FileComparer.cs",
+              "RelativeToolTip": "SynFolders_C#\\FileComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:48:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\Logger.cs",
+              "RelativeDocumentMoniker": "SynFolders_C#\\Logger.cs",
+              "ToolTip": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\Logger.cs",
+              "RelativeToolTip": "SynFolders_C#\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:48:02.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\Main.cs",
+              "RelativeDocumentMoniker": "SynFolders_C#\\Main.cs",
+              "ToolTip": "C:\\Users\\Lu\u00EDs Costa\\source\\repos\\SynFolders_C#\\SynFolders_C#\\Main.cs",
+              "RelativeToolTip": "SynFolders_C#\\Main.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:03:25.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

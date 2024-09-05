@@ -1,0 +1,14 @@
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\bin\Debug\net8.0\SyncFoldersC#.exe
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\bin\Debug\net8.0\SyncFoldersC#.deps.json
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\bin\Debug\net8.0\SyncFoldersC#.runtimeconfig.json
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\bin\Debug\net8.0\SyncFoldersC#.dll
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\bin\Debug\net8.0\SyncFoldersC#.pdb
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.AssemblyInfoInputs.cache
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.AssemblyInfo.cs
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.csproj.CoreCompileInputs.cache
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.dll
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\refint\SyncFoldersC#.dll
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.pdb
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\SyncFoldersC#.genruntimeconfig.cache
+C:\Users\Luís Costa\source\repos\SynFolders_C#\SynFolders_C#\obj\Debug\net8.0\ref\SyncFoldersC#.dll
