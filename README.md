@@ -5,6 +5,7 @@ This is a script developed by me to backup a source folder into a replica folder
 ## Table of Contents
 
 - [Run](#run)
+- [Class Diagram](#ClassDiagram)
 
 
 ## Run
@@ -20,5 +21,5 @@ This is a script developed by me to backup a source folder into a replica folder
 
 4. Run the .exe file and follow the instructions gaven by the script.
 
-5.Class Diagram  
+## ClassDiagram
 ![Captura de ecrã 2024-09-06 005401](https://github.com/user-attachments/assets/ec59cbbd-2a54-4b60-a987-c0cd2f107f25)
