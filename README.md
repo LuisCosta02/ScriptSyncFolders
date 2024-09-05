@@ -15,7 +15,7 @@ This is a script developed by me to backup a source folder into a replica folder
     ```sh
     git clone https://github.com/LuisCosta02/ScriptSyncFolders.git
     ```
-2. Go to the directory where you have the folder
+2. Go to the directory where you have the folder.
 
 3.Inside the folder go to bin -> Debug -> net8.0 and open the terminal.
 
